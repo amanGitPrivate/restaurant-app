@@ -1,5 +1,6 @@
 # Getting Started with Restaurant APp
 
+run `nvm use` to get correct node version 
 ## Available Scripts
 
 In the project directory, you can run:
